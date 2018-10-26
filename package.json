@@ -1,0 +1,16 @@
+{
+  "name": "naming_analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devilkim36",
+  "license": "ISC",
+  "dependencies": {
+    "babylon": "^6.18.0",
+    "esprima": "^4.0.1",
+    "wildcard-regex": "^3.0.2"
+  }
+}

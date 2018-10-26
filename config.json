@@ -1,0 +1,43 @@
+{
+  "using_directory_index": 1,
+  "using_ignore_group": "react",
+
+  "target_directories": [
+    "/home/devilkim36/data/codestar-tong-app3/",
+    "/home/devilkim36/data/react_tong_admin/src/",
+    "/home/devilkim36/data/naming_analysis/"
+  ],
+  "ignore_file_group": {
+    "test": [
+      "node_modules",
+      "*.js"
+    ],
+    "nodejs": [
+      ".ebextensions",
+      ".git",
+      "node_modules",
+      "tools",
+      ".env",
+      "*.local",
+      ".gitignore",
+      "README.md",
+      "buildspec.yml",
+      "*.test.js",
+      "*.json"
+    ],
+    "react": [
+      "node_modules",
+      "*.css",
+      "*.jpg",
+      "*.png",
+      "*.gif",
+      "*.js",
+      "*.test.js"
+    ]
+  },
+  "ignore_word_group": {
+    "test": [],
+    "nodejs": [],
+    "react": []
+  }
+}
